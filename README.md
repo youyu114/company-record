@@ -18,6 +18,9 @@
 ![image](https://github.com/youyu114/company-record/assets/85450462/f9f4ff7a-709f-4302-893c-446144a1efac)
 
 五、详情
+
 单击触发详情页面
+
 ![image](https://github.com/youyu114/company-record/assets/85450462/11e9f991-7e6a-4983-8884-de93ea7c8050)
+
 单击公司名，可以跳转网页
